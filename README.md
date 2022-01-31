@@ -1,7 +1,8 @@
 # DatascienceTask2
 This is a recruitment Task/Challenge by Paperdrop.
 
-## Video Explaination :- https://drive.google.com/file/d/18cpg_t4gZJ1pbJIRAMdsRfJeq3KX0Vd5/view?usp=sharing
+## Video Explaination :- 
+https://drive.google.com/file/d/18cpg_t4gZJ1pbJIRAMdsRfJeq3KX0Vd5/view?usp=sharing
 
 # About the Dataset :-
 The dataset(text) is collected from the website : https://algorithammer.herokuapp.com/ where images are excluded.
